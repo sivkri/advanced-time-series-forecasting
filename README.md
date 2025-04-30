@@ -4,44 +4,25 @@ A comprehensive Jupyter notebook covering classical statistical methods, machine
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- ✅ Missing value handling & outlier detection
-- ✅ Exploratory analysis with ACF/PACF and decomposition
-- ✅ Classical models: ARIMA, ETS
-- ✅ Machine learning models: XGBoost, RandomForest, SVR
-- ✅ Deep learning models: LSTM, BiLSTM, LSTM+Dense, Autoencoder
-- ✅ Transformer-based forecasting
-- ✅ Facebook Prophet and Kats support
-- ✅ Hyperparameter tuning (Optuna)
-- ✅ Model stacking and ensembling
-- ✅ SHAP-based explainability
-- ✅ Export predictions and visualizations
-- ✅ Model evaluation & comparison dashboard
-
----
-
-## 📁 Project Structure
-
-```
-advanced-time-series-forecasting/
-├── notebook/
-│   └── Time_series_ML_and_DL_Enhanced.ipynb
-├── outputs/
-│   ├── forecasts/
-│   ├── metrics/
-│   └── attention_heatmaps/
-├── visualizations/
-│   └── sample_plots.png
-├── data/                  ← optional (if using sample dataset)
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
+- Missing value handling & outlier detection
+- Exploratory analysis with ACF/PACF and decomposition
+- Classical models: ARIMA, ETS
+- Machine learning models: XGBoost, RandomForest, SVR
+- Deep learning models: LSTM, BiLSTM, LSTM+Dense, Autoencoder
+- Transformer-based forecasting
+- Facebook Prophet and Kats support
+- Hyperparameter tuning (Optuna)
+- Model stacking and ensembling
+- SHAP-based explainability
+- Export predictions and visualizations
+- Model evaluation & comparison dashboard
 
 ---
 
-## 🛠️ Setup Instructions
+
+## Setup Instructions
 
 ```bash
 # Create environment
@@ -54,16 +35,16 @@ pip install -r requirements.txt
 
 ---
 
-## 🧪 Run Notebook
+## Run Notebook
 
 Use Jupyter or VS Code to open:
 ```bash
-notebook/Time_series_ML_and_DL_Enhanced.ipynb
+Time_series_ML_and_DL_Enhanced.ipynb
 ```
 
 ---
 
-## 📊 Output
+## Output
 
 - Forecast plots
 - Attention heatmaps
@@ -72,7 +53,7 @@ notebook/Time_series_ML_and_DL_Enhanced.ipynb
 
 ---
 
-## 🧩 Future Enhancements
+## Future Enhancements
 
 - Streamlit dashboard
 - AutoML integration
