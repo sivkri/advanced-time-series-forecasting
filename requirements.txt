@@ -1,0 +1,16 @@
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+xgboost
+tensorflow
+keras
+shap
+optuna
+prophet
+kats
+umap-learn
+pmdarima
